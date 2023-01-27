@@ -1,0 +1,2 @@
+INSERT INTO main_app_dog(name, img, bio, verified_dog, created_at) VALUES ('Poppy', 'https://images.unsplash.com/photo-1537151625747-768eb6cf92b2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=770&q=80', 'hi! I am a cute dog 1', 't', '2023-01-26');
+INSERT INTO main_app_dog(name, img, bio, verified_dog, created_at) VALUES ('Poppy 2', 'https://images.unsplash.com/photo-1596492784531-6e6eb5ea9993?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80', 'hi! I am a cute dog 2', 't', '2023-01-26')
